@@ -24,6 +24,7 @@ dependencies:
   - ipywidgets
   - graphviz
   - nodejs
+  - pangeo-notebook
   - pip:
     - kubernetes
     - graphviz
