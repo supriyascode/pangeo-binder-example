@@ -25,6 +25,7 @@ dependencies:
   - graphviz
   - nodejs
   - pangeo-notebook
+  - dask-gateway-server-local
   - pip:
     - kubernetes
     - graphviz
